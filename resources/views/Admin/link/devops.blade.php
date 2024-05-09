@@ -2,7 +2,7 @@
     <div class="col">
         <table class="table table-sm table-bordered table-hover text-center" style="font-size: 14px;">
             <thead class="thead-dark">
-                <tr><th colspan="2">DEVOPS</th></tr>
+                <tr><th colspan="2">URL</th></tr>
             </thead>
             <tbody>
                 <tr>

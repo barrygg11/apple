@@ -2,7 +2,7 @@
     <div class="col">
         <table class="table table-sm table-bordered table-hover text-center" style="font-size: 14px;">
             <thead class="thead-dark">
-                <tr><th colspan="2">UAT-DEVOPS</th></tr>
+                <tr><th colspan="2">URL</th></tr>
             </thead>
             <tbody>
                 <tr>
@@ -35,7 +35,7 @@
     <div class="col">
         <table class="table table-sm table-bordered table-hover text-center" style="font-size: 14px;">
             <thead class="thead-dark">
-                <tr><th colspan="2">UAT-RTI</th></tr>
+                <tr><th colspan="2">URL</th></tr>
             </thead>
             <tbody>
                 <tr>
@@ -70,7 +70,7 @@
     <div class="col">
         <table class="table table-sm table-bordered table-hover text-center" style="font-size: 14px;">
             <thead class="thead-dark">
-                <tr><th colspan="2">UAT-TP</th></tr>
+                <tr><th colspan="2">URL</th></tr>
             </thead>
             <tbody>
                 <tr>
@@ -103,7 +103,7 @@
     <div class="col">
         <table class="table table-sm table-bordered table-hover text-center" style="font-size: 14px;">
             <thead class="thead-dark">
-                <tr><th colspan="2">UAT-BI</th></tr>
+                <tr><th colspan="2">URL</th></tr>
             </thead>
             <tbody>
                 <tr>
