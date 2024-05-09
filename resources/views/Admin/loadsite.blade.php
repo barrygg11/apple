@@ -60,10 +60,10 @@
             <tr>
                 {{-- <th scope="col">專案名稱</th> --}}
                 <th scope="col">名稱</th>
-                <th scope="col">優先順序</th>
-                <th scope="col">IP位址/範圍 </th>
-                <th scope="col">動作</th>
-                <th scope="col">說明</th>
+                <th scope="col">名稱</th>
+                <th scope="col">名稱</th>
+                <th scope="col">名稱</th>
+                <th scope="col">名稱</th>
             </tr>
         </thead>
         <tbody>

@@ -50,12 +50,12 @@
     <table class="table table-sm table-bordered table-hover text-center" style="margin-left: 1%; width: 98%; font-size: 14px;">
         <thead class="thead-dark">
             <tr>
-                <th scope="col">ID</th>
-                <th scope="col">專案名稱</th>
-                <th scope="col">Tag</th>
-                <th scope="col">Commit</th>
-                <th scope="col">佈置者</th>
-                <th scope="col">時間</th>
+                <th scope="col">1</th>
+                <th scope="col">2</th>
+                <th scope="col">3</th>
+                <th scope="col">4</th>
+                <th scope="col">5</th>
+                <th scope="col">6</th>
             </tr>
         </thead>
         <tbody>
